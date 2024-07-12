@@ -1,0 +1,16 @@
+{
+  "name": "logicflow-to-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compiler.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler",
+    "logicflow"
+  ],
+  "author": "vito-lou",
+  "license": "ISC"
+}
